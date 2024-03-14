@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YaaeiU/OGaiIiGcugrOu8OqaXKkyu2LpCswO0vzema3ThrE0IQ7KrONJH5NTmQFcQJmF1K62P2vkO7Wj55rl3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ZAHIRA.FAIDI\\source\\repos\\Api\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ZAHIRA.FAIDI\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

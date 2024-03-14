@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "JYnJ9Ak7NZGtlHcfUSMXzgktXOFHILA/gYVn2CJ2kqzy5F95+Cyllusud+auM8tigGyO+CpgLF3TWuSbDTR6xg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ZAHIRA.FAIDI\\source\\repos\\Api\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ZAHIRA.FAIDI\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\ZAHIRA.FAIDI\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\ZAHIRA.FAIDI\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\ZAHIRA.FAIDI\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\ZAHIRA.FAIDI\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
